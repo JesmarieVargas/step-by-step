@@ -4,4 +4,4 @@ Third step we are going to commit our message
 Fourth step check the status of our files
 Fifth step "git add" again 
 Sixth step make new repository in github and add to vs
-Seventh  step checked if url was working and then pushed
+Seventh  step checked if url was working and then push into github
